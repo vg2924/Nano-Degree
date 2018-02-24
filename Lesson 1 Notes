@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <body>
+  <h1> Lesson 1 notes</h1>
+  <p>
+    The internet is made up of pages with a language called HTML. HTML stands for <b> Hyper Text Markup Language </b>.
+  </p>
+  <br>
+<img src=http://www.sickchirpse.com/wp-content/uploads/2016/09/HTML.jpg alt=html picture>
+<!--I found the picture on Google by searching for HTML Picture Image search
+http://www.sickchirpse.com/a-significant-percentage-of-americans-think-that-html-is-an-std/-->
+    <h3> <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> </h3>
+    <p>
+    <span>  HTML is the standard launguage used in creating web pages and web applications.
+       HTML has been present since 1997 and they are used in the buildings of all HTML pages.</span>
+        <!--found information above on html wiki page that was provided as above in a link-->
+      </p>
+      <br>
+      <h3><a href="http://www.simplehtmlguide.com/cheatsheet.php">HTML Tags</a> </h3>
+        <p>
+        <div>  I learned about the <b>BOLD TAG</b>, <em> The Italic Tag </em>, the end tag,the DIV tag, and the Span Tag.</div>
+        </p>
+        <br>
+        <h3><a href="https://www.w3schools.com/html/html_links.asp">Making hyper links</a> </h3>
+        Hyper links can be useful to redirect users to their desired content.
+      </p>
+      <br>
+      <h3><a href="https://www.w3schools.com/html/html_images.aspAdding">Adding Images</h3>
+        <p>Images can be added to your page to look nicer.</p>
+        <img src=http://speedlux.com/wp-content/uploads/2016/10/udacity-logo-420x280.png alt=Udacity image>
+</body>
+</html>
